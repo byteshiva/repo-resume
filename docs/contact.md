@@ -42,9 +42,3 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
   </div>
 </form>
 
-!!! note "Note"
-    To make this form functional, you'll need to:
-    
-    - Set up a form handler (like Formspree, Netlify Forms, or your own backend)
-    - Update the `action` attribute in the form tag
-    - Add any necessary JavaScript for form validation or submission
