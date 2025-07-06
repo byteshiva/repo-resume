@@ -16,7 +16,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 ## Send me a Message
 
-<form action="#" method="post" style="max-width: 600px; margin: 20px 0;">
+<form action="#" method="post" style="max-width: 600px; margin: 20px 0;" netlify>
   <div style="margin-bottom: 15px;">
     <label for="name" style="display: block; margin-bottom: 5px; font-weight: bold;">Name *</label>
     <input type="text" id="name" name="name" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box;">
