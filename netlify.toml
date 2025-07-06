@@ -1,0 +1,6 @@
+[build]
+publish = "site" # The directory where mkdocs builds the site
+command = "pip install -r requirements.txt && mkdocs build" # The command to build the site
+
+[build.environment]
+PYTHON_VERSION = "3.10"
